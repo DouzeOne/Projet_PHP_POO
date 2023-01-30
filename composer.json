@@ -1,0 +1,15 @@
+{
+    "name": "barke/projet_php_poo",
+    "autoload": {
+        "psr-4": {
+            "Barke\\ProjetPhpPoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BarkeDiallo",
+            "email": "barkepissi@gmail.com"
+        }
+    ],
+    "require": {}
+}
