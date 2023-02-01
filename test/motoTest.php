@@ -29,6 +29,6 @@ final class MotoTest extends TestCase{
     public function testMotoFreiner() : void
     {
         $this->assertTrue($this->moto->freiner());
-        $this->assertEquals("Je roule en voiture", $this->moto->freiner());
+        $this->assertEquals("On freine pour s'arreter", $this->moto->freiner());
     }
 }
