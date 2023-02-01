@@ -1,0 +1,2 @@
+je vais faire un projet sur les moyens de transport en php.
+ En utilisant la POO les Base de donner, composer et le modelle mvp
